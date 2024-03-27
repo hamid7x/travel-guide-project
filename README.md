@@ -1,4 +1,62 @@
 # travel-guide-project
+
+##User Flow 
+###This user flow covers the main functionalities and interactions a user can have on your application:
+
+1. **User Registration and Authentication:**
+   - User visits the website for the first time.
+   - User clicks on the "Sign Up" or "Register" button.
+   - User fills out the registration form with required details such as username, email, and password.
+   - User submits the registration form.
+   - If registration is successful, user is automatically logged in.
+   - If registration fails (e.g., due to invalid input or existing email), appropriate error messages are displayed.
+
+2. **User Login:**
+   - User clicks on the "Login" button.
+   - User enters their credentials (username/email and password) into the login form.
+   - User submits the login form.
+   - If login is successful, user is redirected to the dashboard or home page.
+   - If login fails (e.g., due to incorrect credentials), appropriate error messages are displayed.
+
+3. **Explore Attractions, Restaurants, and Hotels:**
+   - User navigates to the "Explore" or "Discover" section of the website.
+   - User enters the name of a city or selects a city from a dropdown menu.
+   - User clicks on the "Search" button.
+   - Application fetches data from external APIs for attractions, restaurants, and hotels based on the selected city.
+   - User is presented with a list of attractions, restaurants, and hotels in the selected city.
+   - User can filter or sort the list based on different criteria (e.g., category, rating).
+
+4. **View Attraction Details:**
+   - User clicks on an attraction from the list.
+   - Application displays detailed information about the selected attraction, including name, description, location, and reviews.
+   - User can view reviews from other users, leave their own review, or rate the attraction.
+
+5. **View Restaurant Details:**
+   - User clicks on a restaurant from the list.
+   - Application displays detailed information about the selected restaurant, including name, description, location, and reviews.
+   - User can view reviews from other users, leave their own review, or rate the restaurant.
+
+6. **View Hotel Details:**
+   - User clicks on a hotel from the list.
+   - Application displays detailed information about the selected hotel, including name, description, location, and reviews.
+   - User can view reviews from other users, leave their own review, or rate the hotel.
+
+7. **Interact with Forum:**
+   - User navigates to the "Forum" or "Community" section of the website.
+   - User can view existing forum posts and comments from other users.
+   - User can create a new forum post by clicking on the "Create Post" button and filling out the form.
+   - User can comment on existing forum posts by clicking on the post and entering their comment in the comment section.
+
+8. **User Profile Management:**
+   - User can access their profile settings by clicking on their username or profile picture.
+   - User can update their profile information such as username, email, and password.
+   - User can view their activity history, including past forum posts, comments, and reviews.
+
+9. **Logout:**
+   - User clicks on the "Logout" button to log out of their account.
+   - User is redirected to the homepage or login page.
+
+
   
 
 ### Endpoints: 
