@@ -1,7 +1,7 @@
 # travel-guide-project
 
-##User Flow 
-###This user flow covers the main functionalities and interactions a user can have on your application:
+## User Flow 
+### This user flow covers the main functionalities and interactions a user can have on your application:
 
 1. **User Registration and Authentication:**
    - User visits the website for the first time.
